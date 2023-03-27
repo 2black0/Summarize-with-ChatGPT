@@ -1,10 +1,14 @@
 # Summarize-with-ChatGPT
-Summarize-with-ChatGPT
+This project is used to create a summary of the pdf based on ChatGPT API. Please be aware that ChatGPT API is not free.
 
+There are 2 Way to run the code:
+
+# Google Colab
 <a target="_blank" href="https://colab.research.google.com/github/2black0/Summarize-with-ChatGPT/blob/main/summarize-chatgpt.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+# Local Machine
 ## Create new environment
 ```bash
 conda create -n openai python=3.9
