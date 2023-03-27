@@ -5,6 +5,7 @@ There are 2 Way to run the code:
 
 # Google Colab
 This is the simple way to run the code without install anything into your machine. Just click link below to run the code on google colab.
+
 <a target="_blank" href="https://colab.research.google.com/github/2black0/Summarize-with-ChatGPT/blob/main/summarize-chatgpt.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
