@@ -4,33 +4,34 @@ This project is used to create a summary of the pdf based on ChatGPT API. Please
 There are 2 Way to run the code:
 
 # Google Colab
+This is the simple way to run the code without install anything into your machine. Just click link below to run the code on google colab.
 <a target="_blank" href="https://colab.research.google.com/github/2black0/Summarize-with-ChatGPT/blob/main/summarize-chatgpt.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 # Local Machine
-## Create new environment
+## 1. Create new environment
 ```bash
 conda create -n openai python=3.9
 ```
 
-## Activate the environment
+## 2. Activate the environment
 ```bash
 conda activate openai
 ```
 
-## Clone this project
+## 3. Clone this project
 ```bash
 git clone https://github.com/2black0/Summarize-with-ChatGPT
 cd Summarize-with-ChatGPT
 ```
 
-## Install libraries
+## 4. Install libraries
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run Jupyter
+## 5. Run Jupyter
 ```bash
 jupyter lab
 ```
